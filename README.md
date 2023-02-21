@@ -1,2 +1,2 @@
 # first-day-demo
-lezduit
+A repository for my first-day-demo
